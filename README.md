@@ -111,4 +111,4 @@ Clase GestorInventario: Encapsula la lógica de gestión del inventario, como ag
 Interacción con Producto: A través de métodos como AgregarProducto y BuscarProducto, se facilita la manipulación de productos sin necesidad de conocer los detalles internos de cada tipo de producto.
 
 # Contribuyentes
-By Samuel Junieles (Samuel-Junieles)
+Samuel Junieles 
